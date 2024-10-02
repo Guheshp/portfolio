@@ -1,6 +1,7 @@
 import user_info from "../../data/user_info.js";
 import { IoIosArrowForward } from "react-icons/io";
 import "./../../../public/CV_Guhesh_Panjagall_2024.pdf"
+// import "./../../static/CV_Guhesh_Panjagall_2024.pdf"
 function Hero() {
   return (
     <section id="hero" className="pb-28 pt-12 sm:pt-14 md:pt-22 flex px-6 lg:px-24">
@@ -38,7 +39,7 @@ function Hero() {
                 Projects
               </a> */}
               <a
-                href="./../../../public/CV_Guhesh_Panjagall_2024.pdf"
+                href="./../../static/CV_Guhesh_Panjagall_2024.pdf"
                 download="Guhesh_Panjagll_Resume.pdf"
                 target="_blank"
                 className="px-6 py-3 border border-custom-navyblue hover:bg-custom-blue hover:text-custom-navyblue hover:border-custom-navyblue dark:border-white rounded-lg font-medium transition-all duration-300"
