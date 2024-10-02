@@ -12,6 +12,7 @@
   "dependencies": {
     "firebase": "^10.12.5",
     "lucide-react": "^0.395.0",
+    "pdfjs-dist": "^4.6.82",
     "preline": "^2.3.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
