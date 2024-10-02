@@ -2,6 +2,7 @@ import user_info from "../../data/user_info.js";
 import Project from "../Project.jsx";
 
 function Projects() {
+  console.log("project page", user_info.projects); //
   return (
     <section
       id="projects"

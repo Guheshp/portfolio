@@ -13,14 +13,14 @@ const info = {
         twitter: "https://x.com/GPanjagall7803",
         github: "https://github.com/Guheshp",
         linkedin: "https://www.linkedin.com/in/guheshp/",
-        instagram: "https://www.instagram.com/guhesh_m/",
+        instagram: "https://www.instagram.com/guhesh.panjagall/",
         facebook: "https://facebook.com/dsbalico",
     },
 
     // ============ PROJECTS ============
     projects: [
         {
-            title: "Pseudocode to C",
+            title: "Youtube",
             description: "Pseudocode to C is a web app that translates pseudocode into C code, aiding in the transition from high-level logic to a lower-level language.",
             technologies: "React, Tailwind, Flask, SpaCy",
             github: "https://github.com/dsbalico/pseudocode-to-c",
